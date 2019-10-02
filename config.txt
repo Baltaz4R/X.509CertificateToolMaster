@@ -1,6 +1,0 @@
-DSA
-RSA
-subject key identifier
-subject alternative name
-extended key usage
-extensions rules
